@@ -7,7 +7,7 @@ import ConnectionLayout from "../layouts/ConnectionLayout";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/login",
     element: <Login />,
   },
   {
